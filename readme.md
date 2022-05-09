@@ -2,3 +2,5 @@
 ReverseWordsKeepDelimiters  
 MajorityElement  
 RecurringCharacter  
+SmallestIntegerNotSubsetSum  
+OverlappingIntervals  
