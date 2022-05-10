@@ -4,3 +4,4 @@ MajorityElement
 RecurringCharacter  
 SmallestIntegerNotSubsetSum  
 OverlappingIntervals  
+MaximumOfSubarrays  
