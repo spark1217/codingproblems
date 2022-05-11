@@ -1,4 +1,4 @@
-# Coding problems  
+# Algorithm problems  
 ReverseWordsKeepDelimiters  
 MajorityElement  
 RecurringCharacter  
@@ -8,4 +8,6 @@ MaximumOfSubarrays
 CountingNumbersInMatrix  
 FindTargetWord  
 LongestConsecutive1s  
+RunningMedian  
+ToeplitzMatrix  
 
