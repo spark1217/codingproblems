@@ -10,4 +10,7 @@ FindTargetWord
 LongestConsecutive1s  
 RunningMedian  
 ToeplitzMatrix  
+MultiplyList  
+AddUpToK  
+
 
