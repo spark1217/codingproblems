@@ -13,5 +13,6 @@ ToeplitzMatrix
 MultiplyList  
 AddUpToK  
 DecodingMessage  
+RunLengthEncoding  
 
 
