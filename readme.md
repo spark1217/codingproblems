@@ -14,5 +14,6 @@ MultiplyList
 AddUpToK  
 DecodingMessage  
 RunLengthEncoding  
+SegregateValues  
 
 
