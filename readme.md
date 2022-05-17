@@ -15,5 +15,5 @@ AddUpToK
 DecodingMessage  
 RunLengthEncoding  
 SegregateValues  
-
+NonDuplicatedInteger  
 
