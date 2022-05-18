@@ -16,4 +16,5 @@ DecodingMessage
 RunLengthEncoding  
 SegregateValues  
 NonDuplicatedInteger  
-
+UniformProbability  
+FindIndex  
