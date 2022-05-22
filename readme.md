@@ -18,3 +18,4 @@ SegregateValues
 NonDuplicatedInteger  
 UniformProbability  
 FindIndex  
+ClockwiseSpiral  
