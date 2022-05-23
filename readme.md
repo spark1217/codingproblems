@@ -1,21 +1,45 @@
 # Algorithm problems  
-ReverseWordsKeepDelimiters  
-MajorityElement  
+
+### Easy  
 RecurringCharacter  
 SmallestIntegerNotSubsetSum  
 OverlappingIntervals  
-MaximumOfSubarrays  
-CountingNumbersInMatrix  
 FindTargetWord  
 LongestConsecutive1s  
 RunningMedian  
 ToeplitzMatrix  
-MultiplyList  
 AddUpToK  
-DecodingMessage  
 RunLengthEncoding  
+UniformProbability  
+ClockwiseSpiral  
+PerfectNumber  
+ReadNChar  
+DeepestNode  
+
+### Medium  
+MajorityElement  
+DecodingMessage  
+FindIndex  
+
+### Hard  
+ReverseWordsKeepDelimiters  
+MaximumOfSubarrays  
+CountingNumbersInMatrix  
+MultiplyList  
 SegregateValues  
 NonDuplicatedInteger  
-UniformProbability  
-FindIndex  
-ClockwiseSpiral  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
