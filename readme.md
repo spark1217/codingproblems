@@ -15,6 +15,7 @@ ClockwiseSpiral
 PerfectNumber  
 ReadNChar  
 DeepestNode  
+MappingDigits  
 
 ### Medium  
 MajorityElement  
