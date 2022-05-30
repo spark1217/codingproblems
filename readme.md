@@ -16,6 +16,7 @@ PerfectNumber
 ReadNChar  
 DeepestNode  
 MappingDigits  
+GeneratePowerset  
 
 ### Medium  
 MajorityElement  
