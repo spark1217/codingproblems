@@ -22,6 +22,7 @@ GeneratePowerset
 MajorityElement  
 DecodingMessage  
 FindIndex  
+BreakLines  
 
 ### Hard  
 ReverseWordsKeepDelimiters  
