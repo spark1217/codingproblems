@@ -17,6 +17,7 @@ ReadNChar
 DeepestNode  
 MappingDigits  
 GeneratePowerset  
+SquareInput  
 
 ### Medium  
 MajorityElement  
