@@ -24,6 +24,7 @@ MajorityElement
 DecodingMessage  
 FindIndex  
 BreakLines  
+MiddleMatrixSum  
 
 ### Hard  
 ReverseWordsKeepDelimiters  
