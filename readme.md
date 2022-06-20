@@ -25,6 +25,9 @@ DecodingMessage
 FindIndex  
 BreakLines  
 MiddleMatrixSum  
+ReverseString  
+MatrixFrequency  
+
 
 ### Hard  
 ReverseWordsKeepDelimiters  
