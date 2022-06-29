@@ -18,6 +18,7 @@ DeepestNode
 MappingDigits  
 GeneratePowerset  
 SquareInput  
+CountingCapitalLetters  
 
 ### Medium  
 MajorityElement  
@@ -27,6 +28,7 @@ BreakLines
 MiddleMatrixSum  
 ReverseString  
 MatrixFrequency  
+
 
 
 ### Hard  
