@@ -19,6 +19,8 @@ MappingDigits
 GeneratePowerset  
 SquareInput  
 CountingCapitalLetters  
+EqualArrays  
+
 
 ### Medium  
 MajorityElement  
@@ -28,7 +30,7 @@ BreakLines
 MiddleMatrixSum  
 ReverseString  
 MatrixFrequency  
-
+ClosestTo0  
 
 
 ### Hard  
