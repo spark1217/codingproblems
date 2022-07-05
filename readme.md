@@ -21,6 +21,7 @@ SquareInput
 CountingCapitalLetters  
 EqualArrays  
 MultiplyAndRemainder  
+TemperatureConversion  
 
 
 ### Medium  
