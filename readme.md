@@ -20,6 +20,7 @@ GeneratePowerset
 SquareInput  
 CountingCapitalLetters  
 EqualArrays  
+MultiplyAndRemainder  
 
 
 ### Medium  
